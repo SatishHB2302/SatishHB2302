@@ -2,25 +2,55 @@
 
 
 
-# 👋 Hi, I’m Satish Betasur
 
-🚀 Passionate about **software development, cloud computing, and DevOps**.
-💡 Always learning new tools and technologies to build scalable and efficient solutions.
+# 👋 Hi, I’m Satish Betasur  
 
-### 🔧 Tech Stack & Skills
-
-* **Languages:** Java, JavaScript (Node.js, React)
-* **Tools & Platforms:** Git, GitHub, Docker, Maven
-* **Areas of Interest:** Cloud Computing, DevOps, System Design
-
-### 📫 Connect with Me
-
-* 🔗 [LinkedIn](https://www.linkedin.com/in/satish-betasur-037a31211)
-* 📧 [satishbetasur043@gmail.com](mailto:satishbetasur043@gmail.com)
-
-✨ Open to collaborating on interesting projects and learning together!
+💻 I’m a **Software Developer** passionate about building scalable applications and exploring modern technologies.  
+🌐 Skilled in **Java Web Technologies, SQL, React, AWS, and DevOps practices**.  
+🚀 Always learning, experimenting, and improving!  
 
 ---
+
+## 🔧 Tech Stack & Skills  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatishHB2302&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatishHB2302&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SatishHB2302&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+
+- 💻 [GitHub](https://github.com/SatishHB2302)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satish-betasur-037a31211)  
+- 📧 satishbetasur043@gmail.com  
+
+✨ Open to collaborating on **Java, Web Development, Cloud, and DevOps projects**.  
+```
+
+---
+
+This will give you:
+✅ **Skill Badges** (Java, React, SQL, AWS, DevOps, etc.)
+✅ **GitHub Stats Card**
+✅ **Top Languages Chart**
+✅ **Contribution Streak Graph**
+
 
 
 
