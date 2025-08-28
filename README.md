@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Satish Betasur
 
-<h1>Helllooo</h1>
+
 
 <!-- **SatishHB2302/SatishHB2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
